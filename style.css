@@ -42,7 +42,7 @@ p {
 
 /* Page content */
 .content {
-  padding: 16px;
+  padding: 24px;
 }
 
 /* The sticky class is added to the navbar with JS when it reaches its scroll position */
