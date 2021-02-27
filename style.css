@@ -183,3 +183,7 @@ p {
 .footer p {
   color: white;
 }
+
+#footer a {
+ color: white;
+}
